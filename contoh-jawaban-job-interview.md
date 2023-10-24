@@ -1,38 +1,34 @@
 ## 1.1 Latar Belakang
-
-bla bla bla
+saya di projek ini akan membuat website untuk menyediakan tentang keislaman dimulai dari fiqih, tauhid, bahasa arab, aqidah,akhlak, DLL. Berhubung pada zaman sekarang dengan berkembangnya teknologi saya ingin membuat islam maju mengikuti perkembangan ini agak tidak menjadi agama yang terbelakang supaya tidak menjadi agama yang diremehkan akan perkembangan tekhnologi saat ini. Dengan web ini akan diadakan tentang pengaduan keislaman apabila ada yang memiliki pertanyaan atau keluhan terkait tentang islam, dan juga akan disediakan tentang referensi terkait keislaman seperti banyak disediakan sumber dari kitab-kitab para ulama terkait permasalahan keislaman. Jadi insyaallah website yang akan saya bangun ini dapat menjawab semua keluhan, keraguan, masalah yang dialami oleh seluruh umat islam, karena banyaknya kabar berita terkait kesalahfahaman para umat-umat yang menjadikan sebuat kontroversi dan perdebatan seperti perseteruan terkait masalah qunut, masalah takbir, masalah sholat, bahkan masalah dengan keyakinan allah itu sendiri.
 
 ## 1.2. Deksripsi Teknologi Informasi
-
-bla bla bla
+aplikasi ini bertujuan untuk menjawab semua keraguan,keluhan,pertanyaan,permasalahan yang dialami oleh umat-umat islam, maka insyaalah akan disediakan banyaknya sumber perpustakaan dari kitab-kitab yang telah ditulis oleh para ulama
 
 ## 1.3. Branding
-
-bla bla bla
+merk: 
+tagline: "apakah anda memiliki pertanyaan,keraguan,bahkan masalah yang terkait dengan keislaman? silahkan cari jawabannya disini"
+campaign: tempat untuk mengeluhkan pertanyaan,keraguan,masalah terkait dengan masalah tentang keislaman(fiqih,aqidah,tauhid,akhlak,DLL)
+Target User: oranga yang didalam dirinya memiliki pertanyaan terkait keislaman.
+User Experience theme: 
+-sederhana & menarik
 
 ## 2. User Story
 
-bla | bla | bla | bla
----|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+sebagai | saya ingin bisa | sehingga | prioritas
+umat|menjawab keluhan yang dialami|dapat meyakinkan umat|⭐⭐⭐⭐⭐
+umat | melihat apa saja yang dikeluhkan |dapat menjawab apa yang dikeluhkan| ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
 ```
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+untuk tekhnologi yang saya gunakan adalah Visual Studio Code
 
 ## 6. Desain User Experience dan User Interface
 
