@@ -15,9 +15,9 @@ User Experience theme:
 ## 2. User Story
 
 sebagai | saya ingin bisa | sehingga | prioritas
-umat|menjawab keluhan yang dialami|dapat meyakinkan umat|⭐⭐⭐⭐⭐
-umat | melihat apa saja yang dikeluhkan |dapat menjawab apa yang dikeluhkan| ⭐⭐⭐⭐⭐
-
+---|---|---|---
+umat | mencarikan solusi terkait masalah | dapat terjawab semua pertanyaannya | ⭐⭐⭐⭐⭐
+umat | melihat, menyimpan, dan menjawab apa saja yang dikeluhkan | dapat terjawab apa saja yang dikeluhkan   | ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
 
