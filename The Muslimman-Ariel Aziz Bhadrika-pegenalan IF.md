@@ -50,6 +50,8 @@ Konsumen | Dapat mendonasikan untuk memberikan bantuan terhadap umat yang membut
 untuk tekhnologi yang saya gunakan adalah Visual Studio Code
 
 ## 6. Desain User Experience dan User Interface
+- ** Beranda ** 
+![لقطة_شاشة_2023-11-06_175634-removebg-preview (1)](https://github.com/elaziz1526/jobinterview/assets/144583422/a88c95d4-859b-4ae6-9aa8-d95f6590314a)
 
 Bisa load image 
 ![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
