@@ -28,7 +28,19 @@ User Experience theme:
 1. sederhana
 2. mudah dimengerti
 3. elegant
-4. inspirasi design: 
+4. inspirasi design:
+<img width="905" alt="Screenshot 2023-12-27 075230" src="https://github.com/elaziz1526/jobinterview/assets/144583422/b6cbf339-6406-4de4-ba2c-93770a7d2b62">
+<img width="905" alt="Screenshot 2023-12-27 075248" src="https://github.com/elaziz1526/jobinterview/assets/144583422/ae88069c-8f9b-42fe-a526-bc0c3658dcc0">
+<img width="905" alt="Screenshot 2023-12-27 075308" src="https://github.com/elaziz1526/jobinterview/assets/144583422/e73746a8-2d36-4a61-b57b-8e2e9032a659">
+<img width="907" alt="Screenshot 2023-12-27 075323" src="https://github.com/elaziz1526/jobinterview/assets/144583422/a700d092-7096-4584-8c7c-85fb3dac24e8">
+<img width="904" alt="Screenshot 2023-12-27 081151" src="https://github.com/elaziz1526/jobinterview/assets/144583422/7773269c-a364-4d3c-849f-42a05cf0bddf">
+<img width="951" alt="Screenshot 2023-12-27 075202" src="https://github.com/elaziz1526/jobinterview/assets/144583422/5f0f153f-aee1-4bbc-9287-e20f921e6024">
+Link CANVA: https://www.canva.com/design/DAFzYgygk9Q/m8pPpCw_s5N8AOvNvFlklw/edit?utm_content=DAFzYgygk9Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+
+
 
 ## 2. User Story
 
