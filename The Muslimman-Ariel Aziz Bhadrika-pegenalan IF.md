@@ -50,6 +50,7 @@ Konsumen | mendapatkan dan memesan produk yang diinginkan | dapat memesan produk
 Konsumen | Dapat memberikan kritik saran terhadap produk tersebut | dapat melihat apa yang dikeluhkan   | ⭐⭐⭐⭐⭐
 Konsumen | Dapat mendonasikan untuk memberikan bantuan terhadap umat yang membutuhkan | Bantuan dapat tersalurkan | ⭐⭐⭐⭐
 ## 3. Struktur Data
+<img width="960" alt="Screenshot 2024-01-02 095930" src="https://github.com/elaziz1526/jobinterview/assets/144583422/be5c39b4-266b-4765-bfe2-455965482400">
 
 
 ```
